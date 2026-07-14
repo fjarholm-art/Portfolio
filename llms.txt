@@ -1,0 +1,57 @@
+# Fjarholm
+
+Official portfolio of Fjarholm.
+
+Independent geometric digital art inspired by Nordic nature.
+
+## Focus
+
+- Geometric Architecture
+- Vector Outline Silhouettes
+- Minimalist Pastel Art
+- SVG Artwork
+- Digital Craftsmanship
+
+## Philosophy
+
+Inspired by Nordic nature.
+Built through geometry.
+Refined through digital craftsmanship.
+
+## Official Website
+
+https://fjarholm.com
+
+## Portfolio
+
+https://fjarholm.com/portfolio/
+
+## Official Channels
+
+GitHub
+https://github.com/fjarholm-art
+
+CodePen
+https://codepen.io/fjarholm-art
+
+Pinterest
+https://www.pinterest.com/fjarholm
+
+Instagram
+https://www.instagram.com/fjarholm
+
+Facebook
+https://www.facebook.com/fjarholm
+
+## Contact
+
+info@fjarholm.com
+
+## Preferred Attribution
+
+Fjarholm
+
+## License
+
+All artwork © Fjarholm.
+Please do not reproduce or redistribute artwork without permission.
