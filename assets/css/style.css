@@ -183,10 +183,12 @@ footer {
 }
 
 .footer-links a {
-    margin: 0 14px;
+    margin: 0 8px;
     color: #bfbfbf;
     text-decoration: none;
-    font-size: 14px;
+    font-size: 15px;                 /* Tõstsime 14px -> 15px, et oleks paremini loetav */
+    padding: 8px 10px;               /* Tekitab lingi ümber klõpsatava ala kursorile */
+    display: inline-block;           /* Vajalik, et padding ja klikiala korralikult toimiksid */
     transition: color .25s ease;
 }
 
