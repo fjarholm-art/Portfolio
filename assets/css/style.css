@@ -240,15 +240,14 @@ footer p {
         max-width: 500px;
     }
 
-	.footer-links a {
+    .footer-links a {
         display: inline-block;
-        margin: 4px 8px; /* Teeb lingi ümber mõnusa ruumi, et nad oleks kõrvuti */
-        padding: 8px 10px; /* Hoiab hea suure klikialaga */
-        width: auto; /* Laseb lingil olla täpselt nii lai kui tekst vajab */
+        padding: 12px 0;
+        margin: 8px 0;
+        font-size: 16px;
     }
 
     footer {
         padding-bottom: 70px;
     }
-
 }
